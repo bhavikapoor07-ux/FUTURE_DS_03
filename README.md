@@ -48,7 +48,7 @@ This project successfully transformed numerical feedback into meaningful insight
 
 ## 🙌 **Acknowledgement**
 
-Special thanks to Future Interns for providing this learning opportunity and hands-on experience in real-world analytics scenarios.
+Special thanks to Future Interns for providing this learning opportunity and hands-on experience in real-world data science and data analytics scenarios.
 
 ## 🔗 **Contact Information**
 
